@@ -1,0 +1,10 @@
+product_code,product_group,risk_weight
+Current,Account,0.05
+Savings,Account,0.03
+Payroll,Account,0.02
+Credit,Card,0.18
+Debit,Card,0.06
+Mortgage,Loan,0.25
+Consumer,Loan,0.35
+Auto,Loan,0.3
+SME,Loan,0.4

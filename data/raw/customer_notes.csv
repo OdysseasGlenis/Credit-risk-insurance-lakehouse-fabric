@@ -1,0 +1,701 @@
+note_id,customer_id,note_date,note_text
+N0000001,C000949,2024-08-22,Customer requested branch appointment.
+N0000002,C000602,2025-03-08,Customer reports financial stress and reduced income.
+N0000003,C000137,2024-08-21,Customer lost job and asked for installment restructuring.
+N0000004,C000190,2024-01-06,Customer lost job and asked for installment restructuring.
+N0000005,C000796,2025-10-28,Customer lost job and asked for installment restructuring.
+N0000006,C000281,2025-10-09,Customer requested branch appointment.
+N0000007,C000747,2024-04-04,No issue. Customer asked for account balance information.
+N0000008,C000153,2024-05-11,Customer asked for early loan repayment options.
+N0000009,C000745,2025-02-15,Customer asked for early loan repayment options.
+N0000010,C000054,2024-04-29,Potential fraud alert on ecommerce transaction.
+N0000011,C000944,2025-03-19,Customer lost job and asked for installment restructuring.
+N0000012,C000065,2025-05-15,Customer asked for new credit limit review.
+N0000013,C000414,2025-02-18,No issue. Customer asked for account balance information.
+N0000014,C000252,2024-01-20,Insurance claim follow-up after car accident.
+N0000015,C000306,2025-12-09,Complaint about credit card fees and late charge.
+N0000016,C000699,2025-02-26,No issue. Customer asked for account balance information.
+N0000017,C000207,2024-11-25,Customer lost job and asked for installment restructuring.
+N0000018,C000393,2024-08-31,Customer requested settlement after missed payment.
+N0000019,C000972,2024-06-22,Customer asked for early loan repayment options.
+N0000020,C000870,2024-05-08,Complaint about credit card fees and late charge.
+N0000021,C000204,2025-05-15,Complaint about credit card fees and late charge.
+N0000022,C000431,2025-07-13,Customer requested branch appointment.
+N0000023,C000266,2024-07-26,Insurance claim follow-up after car accident.
+N0000024,C000574,2025-02-06,No issue. Customer asked for account balance information.
+N0000025,C000629,2025-06-10,Complaint about credit card fees and late charge.
+N0000026,C000720,2025-03-31,Customer requested branch appointment.
+N0000027,C000686,2025-11-30,Insurance claim follow-up after car accident.
+N0000028,C000322,2024-05-30,Customer requested branch appointment.
+N0000029,C000762,2024-01-26,Customer asked for new credit limit review.
+N0000030,C000665,2024-06-11,Customer requested branch appointment.
+N0000031,C000604,2025-08-22,Customer asked for early loan repayment options.
+N0000032,C000083,2024-04-25,Customer reports financial stress and reduced income.
+N0000033,C000902,2025-09-15,Potential fraud alert on ecommerce transaction.
+N0000034,C000579,2024-09-18,Complaint about credit card fees and late charge.
+N0000035,C000642,2025-05-15,Customer requested branch appointment.
+N0000036,C000427,2025-11-17,Customer reports financial stress and reduced income.
+N0000037,C000824,2024-08-24,Insurance claim follow-up after car accident.
+N0000038,C000808,2025-09-10,Complaint about credit card fees and late charge.
+N0000039,C000682,2025-05-22,Potential fraud alert on ecommerce transaction.
+N0000040,C000113,2024-09-21,Customer reports financial stress and reduced income.
+N0000041,C000684,2025-04-05,Customer reports financial stress and reduced income.
+N0000042,C000782,2025-06-19,Complaint about credit card fees and late charge.
+N0000043,C000678,2024-05-27,Customer reports financial stress and reduced income.
+N0000044,C000394,2025-04-07,Complaint about credit card fees and late charge.
+N0000045,C000907,2024-10-22,Customer requested branch appointment.
+N0000046,C000421,2025-04-01,No issue. Customer asked for account balance information.
+N0000047,C000637,2025-08-29,Potential fraud alert on ecommerce transaction.
+N0000048,C000161,2025-04-13,Customer reports financial stress and reduced income.
+N0000049,C000704,2025-01-03,Customer requested branch appointment.
+N0000050,C000096,2024-08-03,Customer requested settlement after missed payment.
+N0000051,C000224,2025-04-10,Customer asked for new credit limit review.
+N0000052,C000710,2024-12-06,Customer requested settlement after missed payment.
+N0000053,C000121,2025-03-10,Insurance claim follow-up after car accident.
+N0000054,C000900,2024-06-06,Customer asked for new credit limit review.
+N0000055,C000359,2025-03-08,No issue. Customer asked for account balance information.
+N0000056,C000563,2025-12-02,Complaint about credit card fees and late charge.
+N0000057,C000315,2024-08-27,Customer asked for early loan repayment options.
+N0000058,C000210,2024-07-15,Customer asked for new credit limit review.
+N0000059,C000428,2024-10-07,Customer requested settlement after missed payment.
+N0000060,C000879,2025-01-21,Insurance claim follow-up after car accident.
+N0000061,C000192,2024-12-19,Complaint about credit card fees and late charge.
+N0000062,C000627,2025-04-18,Customer reports financial stress and reduced income.
+N0000063,C000736,2024-05-10,Complaint about credit card fees and late charge.
+N0000064,C000161,2024-11-13,Customer asked for early loan repayment options.
+N0000065,C000375,2025-10-10,Customer lost job and asked for installment restructuring.
+N0000066,C000082,2024-01-21,Customer asked for new credit limit review.
+N0000067,C000799,2025-04-15,No issue. Customer asked for account balance information.
+N0000068,C000025,2024-05-16,Customer asked for new credit limit review.
+N0000069,C000601,2025-09-07,Customer reports financial stress and reduced income.
+N0000070,C000106,2025-10-15,Customer asked for early loan repayment options.
+N0000071,C000358,2025-06-20,Customer reports financial stress and reduced income.
+N0000072,C000698,2025-06-21,No issue. Customer asked for account balance information.
+N0000073,C000324,2025-04-30,Complaint about credit card fees and late charge.
+N0000074,C000401,2025-10-11,Customer lost job and asked for installment restructuring.
+N0000075,C000212,2024-10-05,Customer asked for new credit limit review.
+N0000076,C000525,2024-04-01,Customer asked for early loan repayment options.
+N0000077,C000858,2024-12-16,Complaint about credit card fees and late charge.
+N0000078,C000055,2024-09-23,Customer asked for early loan repayment options.
+N0000079,C000785,2024-09-01,Potential fraud alert on ecommerce transaction.
+N0000080,C000844,2025-11-05,Customer requested settlement after missed payment.
+N0000081,C000690,2024-10-04,Customer asked for early loan repayment options.
+N0000082,C000533,2025-01-05,Customer reports financial stress and reduced income.
+N0000083,C000719,2024-08-18,Complaint about credit card fees and late charge.
+N0000084,C000246,2025-07-24,Insurance claim follow-up after car accident.
+N0000085,C000062,2024-06-27,Customer requested branch appointment.
+N0000086,C000922,2025-05-10,Customer requested branch appointment.
+N0000087,C000327,2024-03-06,Customer requested settlement after missed payment.
+N0000088,C000582,2025-04-23,Customer asked for early loan repayment options.
+N0000089,C000164,2024-12-27,Customer requested branch appointment.
+N0000090,C000734,2025-12-12,Customer reports financial stress and reduced income.
+N0000091,C000266,2025-04-19,No issue. Customer asked for account balance information.
+N0000092,C000187,2024-06-01,Customer requested branch appointment.
+N0000093,C000140,2024-10-23,Customer reports financial stress and reduced income.
+N0000094,C000294,2024-10-26,Customer requested settlement after missed payment.
+N0000095,C000984,2024-06-16,No issue. Customer asked for account balance information.
+N0000096,C000656,2025-07-20,Customer requested branch appointment.
+N0000097,C000289,2025-09-04,Customer requested branch appointment.
+N0000098,C000979,2024-12-05,Potential fraud alert on ecommerce transaction.
+N0000099,C000164,2025-01-09,Customer requested branch appointment.
+N0000100,C000940,2025-06-10,Customer requested branch appointment.
+N0000101,C000073,2025-06-25,Customer reports financial stress and reduced income.
+N0000102,C000408,2024-01-05,Customer asked for new credit limit review.
+N0000103,C000613,2025-10-31,Customer requested branch appointment.
+N0000104,C000747,2024-01-04,Customer asked for early loan repayment options.
+N0000105,C000762,2024-07-26,Potential fraud alert on ecommerce transaction.
+N0000106,C000486,2025-06-27,Insurance claim follow-up after car accident.
+N0000107,C000960,2025-07-20,No issue. Customer asked for account balance information.
+N0000108,C000544,2025-03-21,No issue. Customer asked for account balance information.
+N0000109,C000771,2025-01-21,Customer requested branch appointment.
+N0000110,C000621,2025-03-29,Customer asked for early loan repayment options.
+N0000111,C000295,2025-02-17,Potential fraud alert on ecommerce transaction.
+N0000112,C000466,2025-05-22,Customer requested settlement after missed payment.
+N0000113,C000527,2024-09-05,Customer reports financial stress and reduced income.
+N0000114,C000074,2025-04-24,Customer requested branch appointment.
+N0000115,C000111,2025-12-08,Potential fraud alert on ecommerce transaction.
+N0000116,C000258,2024-02-06,Customer asked for new credit limit review.
+N0000117,C000778,2025-12-29,Customer reports financial stress and reduced income.
+N0000118,C000346,2024-12-01,No issue. Customer asked for account balance information.
+N0000119,C000691,2025-07-20,Insurance claim follow-up after car accident.
+N0000120,C000370,2024-07-18,Customer asked for new credit limit review.
+N0000121,C000862,2025-02-08,Customer reports financial stress and reduced income.
+N0000122,C000495,2024-09-27,Insurance claim follow-up after car accident.
+N0000123,C000711,2025-03-01,Customer asked for early loan repayment options.
+N0000124,C000955,2024-11-21,Customer requested branch appointment.
+N0000125,C000075,2025-02-16,Complaint about credit card fees and late charge.
+N0000126,C000736,2024-05-23,Customer requested settlement after missed payment.
+N0000127,C000457,2024-10-15,Customer asked for new credit limit review.
+N0000128,C000467,2025-04-11,Customer lost job and asked for installment restructuring.
+N0000129,C000191,2024-03-05,Insurance claim follow-up after car accident.
+N0000130,C000435,2025-02-06,Customer lost job and asked for installment restructuring.
+N0000131,C000034,2025-07-09,Insurance claim follow-up after car accident.
+N0000132,C000443,2024-11-22,Customer requested settlement after missed payment.
+N0000133,C000874,2024-05-03,Customer asked for new credit limit review.
+N0000134,C000759,2025-07-23,Insurance claim follow-up after car accident.
+N0000135,C000775,2025-04-01,No issue. Customer asked for account balance information.
+N0000136,C000631,2024-02-24,Customer reports financial stress and reduced income.
+N0000137,C000719,2025-10-29,Customer lost job and asked for installment restructuring.
+N0000138,C000787,2025-08-12,Insurance claim follow-up after car accident.
+N0000139,C000578,2025-01-17,Customer asked for new credit limit review.
+N0000140,C000192,2025-04-19,Customer reports financial stress and reduced income.
+N0000141,C000412,2025-02-19,No issue. Customer asked for account balance information.
+N0000142,C000049,2025-07-06,Potential fraud alert on ecommerce transaction.
+N0000143,C000285,2025-01-27,Customer asked for new credit limit review.
+N0000144,C000613,2025-12-11,Customer requested settlement after missed payment.
+N0000145,C000145,2025-07-17,Customer lost job and asked for installment restructuring.
+N0000146,C000594,2024-05-02,Customer asked for new credit limit review.
+N0000147,C000831,2025-02-18,Complaint about credit card fees and late charge.
+N0000148,C000400,2025-11-22,Customer requested settlement after missed payment.
+N0000149,C000748,2024-02-05,Complaint about credit card fees and late charge.
+N0000150,C000532,2024-06-07,Customer requested settlement after missed payment.
+N0000151,C000889,2024-12-09,Potential fraud alert on ecommerce transaction.
+N0000152,C000083,2025-03-03,Customer asked for new credit limit review.
+N0000153,C000872,2025-12-18,Customer asked for new credit limit review.
+N0000154,C000501,2025-03-24,Customer asked for new credit limit review.
+N0000155,C000855,2025-02-11,No issue. Customer asked for account balance information.
+N0000156,C000110,2025-06-03,Customer asked for early loan repayment options.
+N0000157,C000891,2025-02-14,Customer asked for early loan repayment options.
+N0000158,C000265,2025-03-03,Insurance claim follow-up after car accident.
+N0000159,C000563,2024-08-17,Customer lost job and asked for installment restructuring.
+N0000160,C000744,2024-08-28,Customer requested settlement after missed payment.
+N0000161,C000537,2024-12-08,Customer requested settlement after missed payment.
+N0000162,C000968,2024-07-20,Customer requested branch appointment.
+N0000163,C000172,2025-10-14,No issue. Customer asked for account balance information.
+N0000164,C000772,2025-06-01,Customer lost job and asked for installment restructuring.
+N0000165,C000407,2024-11-24,Customer asked for early loan repayment options.
+N0000166,C000310,2025-08-28,Customer reports financial stress and reduced income.
+N0000167,C000050,2024-06-16,Customer reports financial stress and reduced income.
+N0000168,C000259,2025-05-11,Customer reports financial stress and reduced income.
+N0000169,C000703,2025-10-10,Customer asked for early loan repayment options.
+N0000170,C000172,2025-08-05,Customer requested settlement after missed payment.
+N0000171,C000922,2025-03-31,No issue. Customer asked for account balance information.
+N0000172,C000909,2024-05-18,Customer lost job and asked for installment restructuring.
+N0000173,C000683,2024-03-11,Potential fraud alert on ecommerce transaction.
+N0000174,C000188,2025-12-11,Customer requested settlement after missed payment.
+N0000175,C000237,2024-01-19,Potential fraud alert on ecommerce transaction.
+N0000176,C000909,2024-10-26,Customer asked for new credit limit review.
+N0000177,C000732,2025-09-18,Customer asked for new credit limit review.
+N0000178,C000101,2025-12-01,Customer asked for early loan repayment options.
+N0000179,C000612,2024-07-04,Customer reports financial stress and reduced income.
+N0000180,C000665,2025-04-12,Customer requested settlement after missed payment.
+N0000181,C000777,2024-02-18,Customer reports financial stress and reduced income.
+N0000182,C000335,2024-04-29,Customer requested branch appointment.
+N0000183,C000351,2025-06-21,Customer requested branch appointment.
+N0000184,C000505,2024-11-30,Potential fraud alert on ecommerce transaction.
+N0000185,C000239,2024-05-11,Customer asked for early loan repayment options.
+N0000186,C000729,2024-05-11,Customer lost job and asked for installment restructuring.
+N0000187,C000067,2024-03-10,Customer requested branch appointment.
+N0000188,C000955,2024-09-20,Customer asked for new credit limit review.
+N0000189,C000882,2024-10-10,Complaint about credit card fees and late charge.
+N0000190,C000174,2024-02-04,Customer lost job and asked for installment restructuring.
+N0000191,C000003,2025-08-23,Customer requested branch appointment.
+N0000192,C000759,2024-09-20,Customer requested branch appointment.
+N0000193,C000995,2024-12-28,Customer requested branch appointment.
+N0000194,C000292,2024-03-14,Customer requested branch appointment.
+N0000195,C000117,2024-10-01,Insurance claim follow-up after car accident.
+N0000196,C000561,2025-04-05,Potential fraud alert on ecommerce transaction.
+N0000197,C000258,2025-03-20,Customer asked for new credit limit review.
+N0000198,C000769,2025-12-06,Customer requested settlement after missed payment.
+N0000199,C000020,2024-08-08,Customer reports financial stress and reduced income.
+N0000200,C000855,2025-01-13,Customer requested settlement after missed payment.
+N0000201,C000116,2024-05-06,Customer lost job and asked for installment restructuring.
+N0000202,C000033,2025-10-27,Potential fraud alert on ecommerce transaction.
+N0000203,C000884,2024-11-28,Customer requested settlement after missed payment.
+N0000204,C000637,2024-07-09,Customer lost job and asked for installment restructuring.
+N0000205,C000966,2025-04-23,Potential fraud alert on ecommerce transaction.
+N0000206,C000297,2024-08-24,Potential fraud alert on ecommerce transaction.
+N0000207,C000427,2024-06-24,Customer requested settlement after missed payment.
+N0000208,C000337,2025-02-13,Customer requested settlement after missed payment.
+N0000209,C000787,2024-01-17,Customer asked for early loan repayment options.
+N0000210,C000784,2025-10-21,No issue. Customer asked for account balance information.
+N0000211,C000353,2024-04-26,Customer requested settlement after missed payment.
+N0000212,C000445,2024-06-30,Complaint about credit card fees and late charge.
+N0000213,C000360,2024-05-30,No issue. Customer asked for account balance information.
+N0000214,C000238,2025-03-27,Customer reports financial stress and reduced income.
+N0000215,C000058,2025-03-21,Customer reports financial stress and reduced income.
+N0000216,C000261,2025-10-03,Complaint about credit card fees and late charge.
+N0000217,C000727,2025-09-14,Customer requested settlement after missed payment.
+N0000218,C000454,2025-07-31,Customer reports financial stress and reduced income.
+N0000219,C000788,2025-08-11,No issue. Customer asked for account balance information.
+N0000220,C000685,2024-10-01,Customer lost job and asked for installment restructuring.
+N0000221,C000978,2024-01-06,Complaint about credit card fees and late charge.
+N0000222,C000465,2024-07-15,No issue. Customer asked for account balance information.
+N0000223,C000121,2025-06-07,Insurance claim follow-up after car accident.
+N0000224,C000971,2024-08-15,Complaint about credit card fees and late charge.
+N0000225,C000422,2025-05-14,Insurance claim follow-up after car accident.
+N0000226,C000543,2025-03-16,Insurance claim follow-up after car accident.
+N0000227,C000855,2024-01-23,Potential fraud alert on ecommerce transaction.
+N0000228,C000826,2025-04-15,Customer requested branch appointment.
+N0000229,C000198,2024-02-27,Customer asked for early loan repayment options.
+N0000230,C000249,2025-05-10,Customer lost job and asked for installment restructuring.
+N0000231,C000117,2025-11-20,Complaint about credit card fees and late charge.
+N0000232,C000102,2024-02-27,Customer requested branch appointment.
+N0000233,C000952,2025-06-14,No issue. Customer asked for account balance information.
+N0000234,C000664,2024-05-22,Customer asked for early loan repayment options.
+N0000235,C000921,2024-01-25,Customer reports financial stress and reduced income.
+N0000236,C000399,2024-07-30,Customer asked for new credit limit review.
+N0000237,C000658,2025-03-17,Customer requested branch appointment.
+N0000238,C000807,2024-11-12,Complaint about credit card fees and late charge.
+N0000239,C000554,2025-07-25,Customer lost job and asked for installment restructuring.
+N0000240,C000012,2024-04-24,Complaint about credit card fees and late charge.
+N0000241,C000025,2025-03-07,Customer requested branch appointment.
+N0000242,C000998,2025-08-25,Customer asked for early loan repayment options.
+N0000243,C000688,2024-02-16,Customer lost job and asked for installment restructuring.
+N0000244,C000823,2025-03-05,Customer requested branch appointment.
+N0000245,C000465,2024-09-09,Complaint about credit card fees and late charge.
+N0000246,C000424,2024-10-29,Insurance claim follow-up after car accident.
+N0000247,C000001,2024-03-06,Customer lost job and asked for installment restructuring.
+N0000248,C000152,2024-07-30,Customer reports financial stress and reduced income.
+N0000249,C000001,2025-10-04,Customer lost job and asked for installment restructuring.
+N0000250,C000111,2024-11-14,Potential fraud alert on ecommerce transaction.
+N0000251,C000692,2024-11-20,Customer requested settlement after missed payment.
+N0000252,C000096,2025-01-11,Complaint about credit card fees and late charge.
+N0000253,C000754,2025-12-02,Complaint about credit card fees and late charge.
+N0000254,C000675,2024-07-03,Insurance claim follow-up after car accident.
+N0000255,C000813,2025-01-17,Complaint about credit card fees and late charge.
+N0000256,C000089,2025-11-21,Customer asked for new credit limit review.
+N0000257,C000974,2024-10-20,Customer reports financial stress and reduced income.
+N0000258,C000163,2024-10-04,Customer requested settlement after missed payment.
+N0000259,C000955,2024-02-04,Customer lost job and asked for installment restructuring.
+N0000260,C000491,2024-10-19,Insurance claim follow-up after car accident.
+N0000261,C000882,2024-10-29,Customer requested settlement after missed payment.
+N0000262,C000112,2024-10-17,Customer reports financial stress and reduced income.
+N0000263,C000073,2025-02-11,Insurance claim follow-up after car accident.
+N0000264,C000164,2024-09-25,Customer requested branch appointment.
+N0000265,C000869,2024-09-23,Customer requested branch appointment.
+N0000266,C000623,2024-07-29,Complaint about credit card fees and late charge.
+N0000267,C000541,2024-08-27,Insurance claim follow-up after car accident.
+N0000268,C000586,2024-01-26,No issue. Customer asked for account balance information.
+N0000269,C000285,2025-06-17,Potential fraud alert on ecommerce transaction.
+N0000270,C000246,2025-06-23,Complaint about credit card fees and late charge.
+N0000271,C000359,2025-12-20,Potential fraud alert on ecommerce transaction.
+N0000272,C000005,2025-07-06,No issue. Customer asked for account balance information.
+N0000273,C000613,2025-05-22,Customer requested branch appointment.
+N0000274,C000706,2025-02-03,Customer requested settlement after missed payment.
+N0000275,C000611,2024-03-27,Customer asked for early loan repayment options.
+N0000276,C000268,2025-05-17,Insurance claim follow-up after car accident.
+N0000277,C000388,2024-01-25,Customer requested settlement after missed payment.
+N0000278,C000167,2025-07-30,No issue. Customer asked for account balance information.
+N0000279,C000945,2025-01-03,Customer asked for early loan repayment options.
+N0000280,C000856,2024-12-23,Customer reports financial stress and reduced income.
+N0000281,C000326,2024-08-26,Customer requested branch appointment.
+N0000282,C000778,2025-04-14,No issue. Customer asked for account balance information.
+N0000283,C000187,2025-10-25,Potential fraud alert on ecommerce transaction.
+N0000284,C000447,2025-07-11,No issue. Customer asked for account balance information.
+N0000285,C000755,2024-10-11,Customer requested branch appointment.
+N0000286,C000104,2024-03-13,Customer asked for new credit limit review.
+N0000287,C000494,2025-05-26,Potential fraud alert on ecommerce transaction.
+N0000288,C000540,2024-11-21,Customer requested settlement after missed payment.
+N0000289,C000206,2025-08-12,Customer asked for early loan repayment options.
+N0000290,C000788,2024-04-07,Complaint about credit card fees and late charge.
+N0000291,C000727,2024-12-14,Customer lost job and asked for installment restructuring.
+N0000292,C000716,2024-08-13,Customer asked for early loan repayment options.
+N0000293,C000546,2024-03-09,Customer requested branch appointment.
+N0000294,C000316,2025-03-26,Customer asked for early loan repayment options.
+N0000295,C000184,2024-07-06,Potential fraud alert on ecommerce transaction.
+N0000296,C000188,2024-10-08,No issue. Customer asked for account balance information.
+N0000297,C000192,2024-08-03,Customer lost job and asked for installment restructuring.
+N0000298,C000501,2025-01-05,Potential fraud alert on ecommerce transaction.
+N0000299,C000465,2025-02-09,Potential fraud alert on ecommerce transaction.
+N0000300,C000042,2025-08-10,Customer requested branch appointment.
+N0000301,C000600,2024-02-26,Customer requested branch appointment.
+N0000302,C000821,2025-02-24,Customer asked for new credit limit review.
+N0000303,C000030,2025-07-16,Customer asked for early loan repayment options.
+N0000304,C000926,2024-03-15,Customer requested branch appointment.
+N0000305,C000095,2025-04-13,Customer reports financial stress and reduced income.
+N0000306,C000743,2025-02-07,Customer reports financial stress and reduced income.
+N0000307,C000920,2024-02-25,Customer asked for early loan repayment options.
+N0000308,C000930,2025-04-28,Insurance claim follow-up after car accident.
+N0000309,C000477,2024-11-16,Customer asked for early loan repayment options.
+N0000310,C000912,2025-05-18,Customer lost job and asked for installment restructuring.
+N0000311,C000109,2025-11-05,Insurance claim follow-up after car accident.
+N0000312,C000053,2024-12-20,Customer requested settlement after missed payment.
+N0000313,C000025,2024-07-16,Customer lost job and asked for installment restructuring.
+N0000314,C000245,2025-10-26,Customer lost job and asked for installment restructuring.
+N0000315,C000356,2024-03-02,Customer requested branch appointment.
+N0000316,C000736,2024-02-11,Customer lost job and asked for installment restructuring.
+N0000317,C000454,2025-04-13,Customer lost job and asked for installment restructuring.
+N0000318,C000952,2024-11-14,Insurance claim follow-up after car accident.
+N0000319,C000759,2024-01-14,Customer requested branch appointment.
+N0000320,C000629,2024-12-24,Customer asked for new credit limit review.
+N0000321,C000348,2024-02-08,Customer requested branch appointment.
+N0000322,C000135,2024-08-19,No issue. Customer asked for account balance information.
+N0000323,C000163,2025-10-01,Customer reports financial stress and reduced income.
+N0000324,C000752,2025-07-01,No issue. Customer asked for account balance information.
+N0000325,C000937,2024-03-27,Customer lost job and asked for installment restructuring.
+N0000326,C000761,2024-05-25,Customer asked for early loan repayment options.
+N0000327,C000543,2024-07-22,Customer asked for new credit limit review.
+N0000328,C000804,2025-11-04,Complaint about credit card fees and late charge.
+N0000329,C000584,2025-01-11,Potential fraud alert on ecommerce transaction.
+N0000330,C000055,2025-09-02,Insurance claim follow-up after car accident.
+N0000331,C000786,2024-12-09,Complaint about credit card fees and late charge.
+N0000332,C000475,2025-03-01,Complaint about credit card fees and late charge.
+N0000333,C000404,2024-12-24,No issue. Customer asked for account balance information.
+N0000334,C000173,2025-04-12,Customer asked for new credit limit review.
+N0000335,C000053,2024-06-17,Customer requested settlement after missed payment.
+N0000336,C000402,2024-05-04,Insurance claim follow-up after car accident.
+N0000337,C000421,2024-02-15,Customer asked for new credit limit review.
+N0000338,C000525,2025-08-04,Customer requested branch appointment.
+N0000339,C000154,2025-03-05,Insurance claim follow-up after car accident.
+N0000340,C000672,2025-09-19,Potential fraud alert on ecommerce transaction.
+N0000341,C000902,2024-10-09,Customer lost job and asked for installment restructuring.
+N0000342,C000863,2025-11-21,Insurance claim follow-up after car accident.
+N0000343,C000436,2025-06-11,Insurance claim follow-up after car accident.
+N0000344,C000545,2025-10-22,Customer requested branch appointment.
+N0000345,C000877,2024-07-19,Customer lost job and asked for installment restructuring.
+N0000346,C000887,2024-06-06,Customer asked for new credit limit review.
+N0000347,C000847,2024-08-15,Customer reports financial stress and reduced income.
+N0000348,C000432,2025-05-01,Customer requested branch appointment.
+N0000349,C000772,2024-07-04,Potential fraud alert on ecommerce transaction.
+N0000350,C000354,2025-12-06,Customer asked for early loan repayment options.
+N0000351,C000438,2024-05-16,Potential fraud alert on ecommerce transaction.
+N0000352,C000978,2024-03-05,Customer asked for new credit limit review.
+N0000353,C000966,2025-11-18,Customer asked for early loan repayment options.
+N0000354,C000261,2025-06-28,No issue. Customer asked for account balance information.
+N0000355,C000339,2025-01-03,Customer requested settlement after missed payment.
+N0000356,C000099,2024-01-11,Complaint about credit card fees and late charge.
+N0000357,C000057,2025-11-14,Customer lost job and asked for installment restructuring.
+N0000358,C000228,2025-06-02,Customer asked for new credit limit review.
+N0000359,C000605,2024-08-08,Customer asked for new credit limit review.
+N0000360,C000847,2024-07-13,Customer lost job and asked for installment restructuring.
+N0000361,C000540,2025-02-11,No issue. Customer asked for account balance information.
+N0000362,C000611,2025-01-19,Customer lost job and asked for installment restructuring.
+N0000363,C000854,2024-06-24,Insurance claim follow-up after car accident.
+N0000364,C000211,2024-05-05,Customer reports financial stress and reduced income.
+N0000365,C000881,2025-09-04,Customer requested branch appointment.
+N0000366,C000258,2025-12-14,Insurance claim follow-up after car accident.
+N0000367,C000101,2024-08-23,Complaint about credit card fees and late charge.
+N0000368,C000721,2024-01-13,Insurance claim follow-up after car accident.
+N0000369,C000811,2025-11-19,Customer requested settlement after missed payment.
+N0000370,C000835,2025-01-27,Customer lost job and asked for installment restructuring.
+N0000371,C000991,2024-03-15,Customer asked for new credit limit review.
+N0000372,C000722,2025-05-24,Customer requested branch appointment.
+N0000373,C000858,2024-09-11,Complaint about credit card fees and late charge.
+N0000374,C000241,2024-09-14,Customer requested branch appointment.
+N0000375,C000325,2025-04-18,Customer requested settlement after missed payment.
+N0000376,C000097,2024-09-29,No issue. Customer asked for account balance information.
+N0000377,C000371,2024-12-27,Customer asked for early loan repayment options.
+N0000378,C000515,2025-09-23,Complaint about credit card fees and late charge.
+N0000379,C000721,2025-03-23,Insurance claim follow-up after car accident.
+N0000380,C000944,2024-11-15,Insurance claim follow-up after car accident.
+N0000381,C000813,2025-07-04,Customer lost job and asked for installment restructuring.
+N0000382,C000490,2024-06-11,Potential fraud alert on ecommerce transaction.
+N0000383,C000228,2024-07-31,Potential fraud alert on ecommerce transaction.
+N0000384,C000500,2024-10-18,No issue. Customer asked for account balance information.
+N0000385,C000317,2024-10-05,Customer reports financial stress and reduced income.
+N0000386,C000158,2024-09-29,Complaint about credit card fees and late charge.
+N0000387,C000476,2025-01-24,Customer requested branch appointment.
+N0000388,C000366,2025-04-22,Customer asked for early loan repayment options.
+N0000389,C000259,2024-08-11,Potential fraud alert on ecommerce transaction.
+N0000390,C000053,2025-02-20,No issue. Customer asked for account balance information.
+N0000391,C000322,2025-03-27,Customer requested branch appointment.
+N0000392,C000268,2024-08-26,Customer reports financial stress and reduced income.
+N0000393,C000273,2025-12-22,Potential fraud alert on ecommerce transaction.
+N0000394,C000293,2024-08-05,Customer reports financial stress and reduced income.
+N0000395,C000857,2025-03-10,No issue. Customer asked for account balance information.
+N0000396,C000146,2025-05-17,Potential fraud alert on ecommerce transaction.
+N0000397,C000145,2024-04-13,Customer asked for early loan repayment options.
+N0000398,C000544,2024-08-16,Customer asked for early loan repayment options.
+N0000399,C000063,2024-08-11,Insurance claim follow-up after car accident.
+N0000400,C000992,2024-09-13,Customer lost job and asked for installment restructuring.
+N0000401,C000245,2024-08-17,Customer requested branch appointment.
+N0000402,C000157,2024-02-27,Potential fraud alert on ecommerce transaction.
+N0000403,C000081,2024-05-26,Customer requested settlement after missed payment.
+N0000404,C000351,2025-04-28,Customer requested settlement after missed payment.
+N0000405,C000903,2024-07-11,Insurance claim follow-up after car accident.
+N0000406,C000504,2024-07-04,Potential fraud alert on ecommerce transaction.
+N0000407,C000797,2024-07-02,Customer requested settlement after missed payment.
+N0000408,C000416,2024-07-08,Complaint about credit card fees and late charge.
+N0000409,C000794,2025-06-06,Potential fraud alert on ecommerce transaction.
+N0000410,C000268,2024-09-10,Complaint about credit card fees and late charge.
+N0000411,C000092,2025-02-11,Customer requested settlement after missed payment.
+N0000412,C000808,2024-10-05,Insurance claim follow-up after car accident.
+N0000413,C000986,2024-10-13,No issue. Customer asked for account balance information.
+N0000414,C000345,2025-08-07,Customer asked for new credit limit review.
+N0000415,C000098,2025-07-28,Customer requested branch appointment.
+N0000416,C000806,2025-11-28,Potential fraud alert on ecommerce transaction.
+N0000417,C000731,2024-02-24,Customer asked for new credit limit review.
+N0000418,C000978,2025-06-09,Complaint about credit card fees and late charge.
+N0000419,C000187,2025-01-25,Insurance claim follow-up after car accident.
+N0000420,C000086,2025-05-28,Customer requested branch appointment.
+N0000421,C000885,2024-09-07,Insurance claim follow-up after car accident.
+N0000422,C000595,2024-11-10,Insurance claim follow-up after car accident.
+N0000423,C000153,2024-06-15,Customer asked for early loan repayment options.
+N0000424,C000346,2025-06-11,Customer reports financial stress and reduced income.
+N0000425,C000412,2024-07-17,Customer lost job and asked for installment restructuring.
+N0000426,C000841,2025-11-20,Customer lost job and asked for installment restructuring.
+N0000427,C000760,2025-05-29,Potential fraud alert on ecommerce transaction.
+N0000428,C000455,2024-12-15,Customer asked for new credit limit review.
+N0000429,C000209,2025-06-23,Customer asked for new credit limit review.
+N0000430,C000354,2024-07-06,Complaint about credit card fees and late charge.
+N0000431,C000082,2025-05-24,Insurance claim follow-up after car accident.
+N0000432,C000771,2024-06-04,Complaint about credit card fees and late charge.
+N0000433,C000095,2024-02-25,Customer lost job and asked for installment restructuring.
+N0000434,C000782,2025-01-10,Insurance claim follow-up after car accident.
+N0000435,C000676,2024-11-17,Customer asked for early loan repayment options.
+N0000436,C000585,2024-08-05,Customer reports financial stress and reduced income.
+N0000437,C000688,2025-04-27,No issue. Customer asked for account balance information.
+N0000438,C000027,2025-10-25,No issue. Customer asked for account balance information.
+N0000439,C000452,2024-02-13,Insurance claim follow-up after car accident.
+N0000440,C000558,2025-04-01,Potential fraud alert on ecommerce transaction.
+N0000441,C000081,2025-07-13,Insurance claim follow-up after car accident.
+N0000442,C000476,2025-01-30,Customer requested branch appointment.
+N0000443,C000227,2025-09-07,Customer asked for new credit limit review.
+N0000444,C000027,2024-02-22,Customer requested branch appointment.
+N0000445,C000145,2024-08-06,Insurance claim follow-up after car accident.
+N0000446,C000117,2025-10-08,Customer asked for new credit limit review.
+N0000447,C000304,2025-04-14,Customer asked for new credit limit review.
+N0000448,C000707,2025-09-19,Potential fraud alert on ecommerce transaction.
+N0000449,C000221,2024-09-18,Customer requested settlement after missed payment.
+N0000450,C000434,2024-12-25,Customer lost job and asked for installment restructuring.
+N0000451,C000157,2025-07-11,No issue. Customer asked for account balance information.
+N0000452,C000382,2025-09-18,Customer asked for new credit limit review.
+N0000453,C000698,2024-03-25,Customer requested branch appointment.
+N0000454,C000189,2024-06-25,Complaint about credit card fees and late charge.
+N0000455,C000868,2025-07-31,Customer requested settlement after missed payment.
+N0000456,C000376,2024-04-13,No issue. Customer asked for account balance information.
+N0000457,C000101,2025-08-15,No issue. Customer asked for account balance information.
+N0000458,C000448,2025-11-03,Customer requested branch appointment.
+N0000459,C000738,2024-11-13,Insurance claim follow-up after car accident.
+N0000460,C000075,2025-07-30,Potential fraud alert on ecommerce transaction.
+N0000461,C000121,2025-04-04,Customer reports financial stress and reduced income.
+N0000462,C000371,2024-03-17,Customer requested branch appointment.
+N0000463,C000323,2024-04-04,Insurance claim follow-up after car accident.
+N0000464,C000574,2024-08-21,Customer lost job and asked for installment restructuring.
+N0000465,C000839,2025-12-05,Customer reports financial stress and reduced income.
+N0000466,C000561,2024-06-06,Customer asked for new credit limit review.
+N0000467,C000873,2025-03-02,No issue. Customer asked for account balance information.
+N0000468,C000911,2025-09-03,Complaint about credit card fees and late charge.
+N0000469,C000732,2024-04-18,Potential fraud alert on ecommerce transaction.
+N0000470,C000271,2024-11-06,Customer requested branch appointment.
+N0000471,C000950,2025-05-19,Customer asked for new credit limit review.
+N0000472,C000249,2025-02-22,No issue. Customer asked for account balance information.
+N0000473,C000414,2025-02-27,Customer requested settlement after missed payment.
+N0000474,C000025,2025-01-24,Customer requested branch appointment.
+N0000475,C000761,2024-01-27,Customer asked for early loan repayment options.
+N0000476,C000891,2025-02-28,Potential fraud alert on ecommerce transaction.
+N0000477,C000886,2024-09-20,No issue. Customer asked for account balance information.
+N0000478,C000437,2025-08-30,Customer lost job and asked for installment restructuring.
+N0000479,C000511,2025-08-24,Complaint about credit card fees and late charge.
+N0000480,C000919,2025-03-13,Insurance claim follow-up after car accident.
+N0000481,C000695,2024-08-11,Customer asked for new credit limit review.
+N0000482,C000811,2025-07-09,Customer asked for new credit limit review.
+N0000483,C000162,2025-08-08,Customer lost job and asked for installment restructuring.
+N0000484,C000148,2024-05-09,Customer reports financial stress and reduced income.
+N0000485,C000362,2025-03-31,Customer asked for new credit limit review.
+N0000486,C000352,2025-03-14,Complaint about credit card fees and late charge.
+N0000487,C000856,2025-12-01,Customer requested settlement after missed payment.
+N0000488,C000741,2024-12-29,Customer requested settlement after missed payment.
+N0000489,C000164,2024-03-15,Customer asked for early loan repayment options.
+N0000490,C000495,2024-08-19,Complaint about credit card fees and late charge.
+N0000491,C000139,2024-05-03,Customer asked for new credit limit review.
+N0000492,C000574,2025-11-20,Customer asked for early loan repayment options.
+N0000493,C000353,2024-11-08,Potential fraud alert on ecommerce transaction.
+N0000494,C000019,2024-05-06,Potential fraud alert on ecommerce transaction.
+N0000495,C000727,2024-01-14,Customer asked for early loan repayment options.
+N0000496,C000613,2025-09-25,Insurance claim follow-up after car accident.
+N0000497,C000924,2024-04-05,Potential fraud alert on ecommerce transaction.
+N0000498,C000909,2024-05-12,No issue. Customer asked for account balance information.
+N0000499,C000652,2025-05-02,Customer asked for early loan repayment options.
+N0000500,C000680,2024-06-22,Insurance claim follow-up after car accident.
+N0000501,C000278,2025-11-16,Customer asked for early loan repayment options.
+N0000502,C000556,2024-11-29,Customer reports financial stress and reduced income.
+N0000503,C000916,2024-08-06,Complaint about credit card fees and late charge.
+N0000504,C000531,2025-06-27,Customer requested branch appointment.
+N0000505,C000281,2025-02-20,Complaint about credit card fees and late charge.
+N0000506,C000197,2025-08-13,No issue. Customer asked for account balance information.
+N0000507,C000250,2025-04-17,Customer asked for new credit limit review.
+N0000508,C000501,2024-06-15,Customer asked for new credit limit review.
+N0000509,C000532,2025-06-17,Customer lost job and asked for installment restructuring.
+N0000510,C000842,2025-08-31,Insurance claim follow-up after car accident.
+N0000511,C000406,2025-12-08,Customer asked for new credit limit review.
+N0000512,C000857,2024-08-16,Customer requested branch appointment.
+N0000513,C000287,2025-11-21,No issue. Customer asked for account balance information.
+N0000514,C000082,2025-09-10,Customer requested branch appointment.
+N0000515,C000915,2024-11-06,Insurance claim follow-up after car accident.
+N0000516,C000885,2025-11-15,Customer requested branch appointment.
+N0000517,C000231,2024-06-29,Customer asked for new credit limit review.
+N0000518,C000143,2025-02-16,Insurance claim follow-up after car accident.
+N0000519,C000051,2025-05-26,Potential fraud alert on ecommerce transaction.
+N0000520,C000159,2025-10-03,Insurance claim follow-up after car accident.
+N0000521,C000859,2025-06-25,Customer asked for new credit limit review.
+N0000522,C000232,2025-04-08,Insurance claim follow-up after car accident.
+N0000523,C000813,2025-05-18,Complaint about credit card fees and late charge.
+N0000524,C000541,2025-05-30,Customer requested settlement after missed payment.
+N0000525,C000740,2025-09-18,Potential fraud alert on ecommerce transaction.
+N0000526,C000066,2025-05-15,Insurance claim follow-up after car accident.
+N0000527,C000840,2024-06-25,Customer reports financial stress and reduced income.
+N0000528,C000799,2025-01-08,Customer lost job and asked for installment restructuring.
+N0000529,C000971,2024-09-07,No issue. Customer asked for account balance information.
+N0000530,C000813,2025-09-02,Insurance claim follow-up after car accident.
+N0000531,C000745,2025-06-17,Customer requested branch appointment.
+N0000532,C000374,2025-11-18,Customer requested settlement after missed payment.
+N0000533,C000160,2025-09-21,Customer requested branch appointment.
+N0000534,C000241,2025-04-09,Insurance claim follow-up after car accident.
+N0000535,C000122,2025-03-10,Customer lost job and asked for installment restructuring.
+N0000536,C000054,2024-12-01,No issue. Customer asked for account balance information.
+N0000537,C000036,2025-11-19,Customer asked for early loan repayment options.
+N0000538,C000961,2025-03-26,Customer lost job and asked for installment restructuring.
+N0000539,C000152,2025-08-19,Customer asked for new credit limit review.
+N0000540,C000016,2025-01-22,Customer asked for early loan repayment options.
+N0000541,C000982,2025-09-16,No issue. Customer asked for account balance information.
+N0000542,C000946,2025-08-22,Potential fraud alert on ecommerce transaction.
+N0000543,C000459,2025-06-13,Customer asked for new credit limit review.
+N0000544,C000576,2025-03-29,No issue. Customer asked for account balance information.
+N0000545,C000822,2025-08-21,Customer requested settlement after missed payment.
+N0000546,C000630,2024-10-18,Complaint about credit card fees and late charge.
+N0000547,C000265,2024-01-05,Customer lost job and asked for installment restructuring.
+N0000548,C000711,2025-07-11,Customer lost job and asked for installment restructuring.
+N0000549,C000819,2025-08-13,Potential fraud alert on ecommerce transaction.
+N0000550,C000227,2024-03-22,Customer lost job and asked for installment restructuring.
+N0000551,C000243,2025-03-09,Potential fraud alert on ecommerce transaction.
+N0000552,C000623,2024-01-13,Customer requested settlement after missed payment.
+N0000553,C000762,2024-12-05,Customer requested branch appointment.
+N0000554,C000748,2024-06-09,Customer lost job and asked for installment restructuring.
+N0000555,C000448,2025-12-04,Customer reports financial stress and reduced income.
+N0000556,C000976,2025-03-25,Complaint about credit card fees and late charge.
+N0000557,C000173,2024-05-13,No issue. Customer asked for account balance information.
+N0000558,C000104,2025-11-01,Insurance claim follow-up after car accident.
+N0000559,C000457,2025-01-20,Potential fraud alert on ecommerce transaction.
+N0000560,C000890,2024-11-19,Customer asked for new credit limit review.
+N0000561,C000748,2025-08-13,Complaint about credit card fees and late charge.
+N0000562,C000598,2024-03-25,Insurance claim follow-up after car accident.
+N0000563,C000209,2025-03-15,Complaint about credit card fees and late charge.
+N0000564,C000717,2024-02-24,Customer asked for new credit limit review.
+N0000565,C000605,2025-06-19,Potential fraud alert on ecommerce transaction.
+N0000566,C000304,2024-11-12,Customer requested settlement after missed payment.
+N0000567,C000811,2024-11-06,Customer requested settlement after missed payment.
+N0000568,C000885,2024-09-05,Customer asked for new credit limit review.
+N0000569,C000362,2024-04-12,Customer reports financial stress and reduced income.
+N0000570,C000787,2025-07-30,Customer reports financial stress and reduced income.
+N0000571,C000854,2025-12-10,Customer requested settlement after missed payment.
+N0000572,C000130,2025-08-06,Insurance claim follow-up after car accident.
+N0000573,C000199,2025-12-04,Customer requested branch appointment.
+N0000574,C000460,2024-06-19,Customer requested branch appointment.
+N0000575,C000125,2024-10-25,Potential fraud alert on ecommerce transaction.
+N0000576,C000274,2025-08-17,Customer requested settlement after missed payment.
+N0000577,C000501,2025-07-20,Potential fraud alert on ecommerce transaction.
+N0000578,C000878,2024-02-28,Complaint about credit card fees and late charge.
+N0000579,C000181,2024-01-17,Customer asked for early loan repayment options.
+N0000580,C000389,2025-04-21,Insurance claim follow-up after car accident.
+N0000581,C000229,2024-04-01,Potential fraud alert on ecommerce transaction.
+N0000582,C000672,2025-07-29,Customer lost job and asked for installment restructuring.
+N0000583,C000614,2025-05-19,Customer reports financial stress and reduced income.
+N0000584,C000718,2025-05-20,Customer asked for new credit limit review.
+N0000585,C000793,2025-07-02,Customer requested settlement after missed payment.
+N0000586,C000076,2024-10-06,Customer requested branch appointment.
+N0000587,C000171,2025-03-07,Customer asked for early loan repayment options.
+N0000588,C000442,2024-01-05,No issue. Customer asked for account balance information.
+N0000589,C000240,2025-11-13,Insurance claim follow-up after car accident.
+N0000590,C000957,2025-06-10,Customer requested branch appointment.
+N0000591,C000095,2024-11-06,Customer lost job and asked for installment restructuring.
+N0000592,C000532,2024-06-30,Customer requested settlement after missed payment.
+N0000593,C000340,2024-03-14,No issue. Customer asked for account balance information.
+N0000594,C000071,2025-01-17,Complaint about credit card fees and late charge.
+N0000595,C000579,2025-01-03,Customer reports financial stress and reduced income.
+N0000596,C000821,2025-05-18,Customer requested branch appointment.
+N0000597,C000516,2025-07-28,Customer requested settlement after missed payment.
+N0000598,C000599,2024-05-15,Customer requested settlement after missed payment.
+N0000599,C000775,2025-02-27,Customer lost job and asked for installment restructuring.
+N0000600,C000436,2025-03-07,Customer requested settlement after missed payment.
+N0000601,C000131,2024-09-12,Complaint about credit card fees and late charge.
+N0000602,C000358,2025-11-03,Insurance claim follow-up after car accident.
+N0000603,C000821,2024-05-26,Insurance claim follow-up after car accident.
+N0000604,C000654,2024-02-13,Customer reports financial stress and reduced income.
+N0000605,C000608,2024-05-03,Customer requested branch appointment.
+N0000606,C000751,2025-11-10,Insurance claim follow-up after car accident.
+N0000607,C000500,2025-04-29,Insurance claim follow-up after car accident.
+N0000608,C000523,2025-08-06,Complaint about credit card fees and late charge.
+N0000609,C000569,2024-05-22,Customer asked for new credit limit review.
+N0000610,C000676,2024-03-13,Complaint about credit card fees and late charge.
+N0000611,C000278,2025-12-24,Customer asked for new credit limit review.
+N0000612,C000766,2024-09-16,Customer asked for early loan repayment options.
+N0000613,C000278,2025-05-10,Customer requested settlement after missed payment.
+N0000614,C000693,2025-06-09,Customer reports financial stress and reduced income.
+N0000615,C000439,2025-01-18,Customer requested branch appointment.
+N0000616,C000978,2024-05-30,Customer asked for new credit limit review.
+N0000617,C000700,2025-11-01,Customer asked for new credit limit review.
+N0000618,C000457,2025-09-16,No issue. Customer asked for account balance information.
+N0000619,C000080,2025-04-14,Customer asked for new credit limit review.
+N0000620,C000941,2025-12-08,Complaint about credit card fees and late charge.
+N0000621,C000486,2024-12-23,Customer requested branch appointment.
+N0000622,C000529,2025-06-18,Customer asked for new credit limit review.
+N0000623,C000633,2025-03-01,Customer reports financial stress and reduced income.
+N0000624,C000980,2025-06-24,Customer requested settlement after missed payment.
+N0000625,C000538,2025-06-10,Customer requested branch appointment.
+N0000626,C000016,2024-01-19,Customer lost job and asked for installment restructuring.
+N0000627,C000408,2025-04-15,Customer lost job and asked for installment restructuring.
+N0000628,C000499,2025-06-08,Insurance claim follow-up after car accident.
+N0000629,C000826,2025-10-29,Customer asked for early loan repayment options.
+N0000630,C000568,2025-03-28,Insurance claim follow-up after car accident.
+N0000631,C000499,2024-05-07,Customer asked for early loan repayment options.
+N0000632,C000755,2025-10-01,Potential fraud alert on ecommerce transaction.
+N0000633,C000326,2024-01-03,Complaint about credit card fees and late charge.
+N0000634,C000345,2025-10-08,No issue. Customer asked for account balance information.
+N0000635,C000463,2024-06-12,Customer requested settlement after missed payment.
+N0000636,C000493,2025-01-15,Insurance claim follow-up after car accident.
+N0000637,C000460,2024-04-01,Customer lost job and asked for installment restructuring.
+N0000638,C000120,2025-04-20,Customer asked for early loan repayment options.
+N0000639,C000464,2025-02-17,Customer asked for new credit limit review.
+N0000640,C000840,2024-12-17,Customer reports financial stress and reduced income.
+N0000641,C000648,2025-11-15,Insurance claim follow-up after car accident.
+N0000642,C000321,2024-12-11,Customer requested branch appointment.
+N0000643,C000279,2025-03-29,Complaint about credit card fees and late charge.
+N0000644,C000259,2025-11-01,No issue. Customer asked for account balance information.
+N0000645,C000135,2024-02-21,Customer reports financial stress and reduced income.
+N0000646,C000609,2024-04-01,No issue. Customer asked for account balance information.
+N0000647,C000564,2024-07-31,Insurance claim follow-up after car accident.
+N0000648,C000199,2024-07-12,Customer asked for early loan repayment options.
+N0000649,C000823,2025-12-24,No issue. Customer asked for account balance information.
+N0000650,C000566,2025-09-07,Customer asked for early loan repayment options.
+N0000651,C000814,2025-11-13,Complaint about credit card fees and late charge.
+N0000652,C000767,2025-04-25,Complaint about credit card fees and late charge.
+N0000653,C000247,2024-03-25,Customer asked for early loan repayment options.
+N0000654,C000846,2025-06-26,Customer reports financial stress and reduced income.
+N0000655,C000978,2024-02-04,Customer lost job and asked for installment restructuring.
+N0000656,C000474,2025-10-04,Potential fraud alert on ecommerce transaction.
+N0000657,C000684,2024-06-27,Customer requested settlement after missed payment.
+N0000658,C000063,2024-12-12,Customer requested settlement after missed payment.
+N0000659,C000043,2024-08-27,Customer requested branch appointment.
+N0000660,C000135,2024-02-24,Customer lost job and asked for installment restructuring.
+N0000661,C000973,2025-08-13,Customer lost job and asked for installment restructuring.
+N0000662,C000426,2025-05-12,Customer requested branch appointment.
+N0000663,C000630,2025-09-04,Customer lost job and asked for installment restructuring.
+N0000664,C000049,2025-09-13,Customer requested settlement after missed payment.
+N0000665,C000158,2024-01-03,No issue. Customer asked for account balance information.
+N0000666,C000256,2024-04-03,Customer requested branch appointment.
+N0000667,C000024,2025-08-05,Complaint about credit card fees and late charge.
+N0000668,C000554,2025-11-02,Customer requested branch appointment.
+N0000669,C000613,2025-09-19,Customer asked for early loan repayment options.
+N0000670,C000308,2024-11-20,Potential fraud alert on ecommerce transaction.
+N0000671,C000123,2025-09-16,Insurance claim follow-up after car accident.
+N0000672,C000617,2025-07-27,Customer asked for early loan repayment options.
+N0000673,C000196,2025-07-22,Customer requested settlement after missed payment.
+N0000674,C000238,2025-11-07,Insurance claim follow-up after car accident.
+N0000675,C000217,2024-11-05,Customer requested settlement after missed payment.
+N0000676,C000456,2025-05-07,Customer requested branch appointment.
+N0000677,C000900,2024-07-15,Complaint about credit card fees and late charge.
+N0000678,C000794,2024-05-11,Customer asked for early loan repayment options.
+N0000679,C000892,2025-08-13,Customer requested branch appointment.
+N0000680,C000665,2024-04-21,No issue. Customer asked for account balance information.
+N0000681,C000545,2024-06-14,Customer asked for early loan repayment options.
+N0000682,C000914,2025-04-10,Customer reports financial stress and reduced income.
+N0000683,C000200,2024-08-24,Customer reports financial stress and reduced income.
+N0000684,C000746,2024-02-21,Customer lost job and asked for installment restructuring.
+N0000685,C000513,2025-07-02,Customer requested branch appointment.
+N0000686,C000302,2024-09-22,Customer requested branch appointment.
+N0000687,C000621,2024-10-12,Complaint about credit card fees and late charge.
+N0000688,C000187,2025-06-14,Customer lost job and asked for installment restructuring.
+N0000689,C000222,2024-10-27,No issue. Customer asked for account balance information.
+N0000690,C000216,2024-03-01,Customer reports financial stress and reduced income.
+N0000691,C000978,2024-06-03,Customer asked for new credit limit review.
+N0000692,C000935,2025-09-07,Customer requested branch appointment.
+N0000693,C000924,2024-09-24,Customer requested branch appointment.
+N0000694,C000972,2025-08-28,Customer lost job and asked for installment restructuring.
+N0000695,C000688,2025-11-10,Customer lost job and asked for installment restructuring.
+N0000696,C000305,2025-04-12,Insurance claim follow-up after car accident.
+N0000697,C000862,2025-07-27,Insurance claim follow-up after car accident.
+N0000698,C000445,2025-07-14,No issue. Customer asked for account balance information.
+N0000699,C000037,2024-05-01,Insurance claim follow-up after car accident.
+N0000700,C000385,2024-05-02,Customer asked for early loan repayment options.

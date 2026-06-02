@@ -1,0 +1,9 @@
+{
+  "name": "PL_INGEST_DAILY",
+  "description": "Placeholder: recreate this in Fabric Data Factory UI and document with screenshots.",
+  "parameters": {
+    "p_run_date": "YYYY-MM-DD",
+    "p_environment": "dev",
+    "p_load_type": "full/incremental"
+  }
+}
