@@ -1,5 +1,7 @@
 import os
+import sys
 from pathlib import Path
+
 from pyspark.sql import SparkSession
 
 
@@ -16,8 +18,18 @@ def configure_windows_hadoop():
         os.environ["PATH"] = os.path.join(hadoop_home, "bin") + os.pathsep + os.environ.get("PATH", "")
 
 
+def configure_pyspark_python():
+    python_executable = sys.executable
+
+    os.environ["PYSPARK_PYTHON"] = python_executable
+    os.environ["PYSPARK_DRIVER_PYTHON"] = python_executable
+
+
 def get_spark(app_name: str = "credit-risk-insurance-local-lakehouse") -> SparkSession:
     configure_windows_hadoop()
+    configure_pyspark_python()
+
+    python_executable = sys.executable
 
     spark = (
         SparkSession.builder
@@ -25,6 +37,8 @@ def get_spark(app_name: str = "credit-risk-insurance-local-lakehouse") -> SparkS
         .master("local[*]")
         .config("spark.sql.session.timeZone", "UTC")
         .config("spark.sql.shuffle.partitions", "8")
+        .config("spark.pyspark.python", python_executable)
+        .config("spark.pyspark.driver.python", python_executable)
         .getOrCreate()
     )
 
