@@ -6,3 +6,4 @@ lakehouse/
 metastore_db/
 derby.log
 *.log
+.vscode/
