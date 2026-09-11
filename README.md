@@ -4,7 +4,7 @@
 
 End-to-end local PySpark lakehouse project for synthetic banking and insurance data, designed to simulate a modern data engineering pipeline using Bronze, Silver and Gold layers.
 
-The project demonstrates ingestion, cleansing, deduplication, feature engineering, customer-level analytical marts, risk scoring and data quality monitoring. It is implemented locally with PySpark and Parquet, but the architecture is portable to platforms such as Microsoft Fabric or Databricks.
+The project demonstrates ingestion, cleansing, deduplication, feature engineering, customer-level analytical marts, rule-based risk scoring, data quality monitoring, automated tests and Power BI-ready exports. It is implemented locally with PySpark and Parquet, but the architecture is portable to platforms such as Microsoft Fabric or Databricks.
 
 ---
 
@@ -47,6 +47,10 @@ Customer 360, transaction KPIs, loan behavior, card features, claims metrics and
         v
 Monitoring Layer
 Data quality checks, reconciliation and pipeline run logging
+        |
+        v
+Power BI Export
+CSV datasets for local reporting/dashboard use
 ```
 
 ---
@@ -56,11 +60,14 @@ Data quality checks, reconciliation and pipeline run logging
 - Python
 - PySpark
 - Parquet
-- Local lakehouse architecture
+- pytest
+- GitHub Actions
 - Git / GitHub
 - VS Code
+- Local lakehouse architecture
 - Data quality monitoring
 - Bronze / Silver / Gold data modeling
+- Power BI-ready CSV exports
 
 ---
 
@@ -69,9 +76,24 @@ Data quality checks, reconciliation and pipeline run logging
 ```text
 Credit-risk-insurance-lakehouse-fabric/
 │
+├── .github/
+│   └── workflows/
+│       └── ci.yml
+│
 ├── data/
 │   ├── raw/
 │   └── reference/
+│
+├── data_generator/
+│   └── generate_synthetic_data.py
+│
+├── docs/
+│
+├── fabric_notebooks/
+│
+├── pipelines/
+│
+├── sql/
 │
 ├── src/
 │   ├── common/
@@ -82,11 +104,15 @@ Credit-risk-insurance-lakehouse-fabric/
 │       ├── silver_transformations.py
 │       ├── gold_features.py
 │       ├── data_quality_checks.py
+│       ├── export_powerbi_datasets.py
 │       └── run_all.py
 │
-├── docs/
-├── sql/
-├── pipelines/
+├── tests/
+│   ├── test_data_quality_checks.py
+│   ├── test_gold_features.py
+│   └── test_silver_transformations.py
+│
+├── pytest.ini
 ├── requirements.txt
 ├── .gitignore
 └── README.md
@@ -122,6 +148,8 @@ lakehouse/bronze/bronze_loans
 lakehouse/bronze/bronze_claims
 ```
 
+---
+
 ### Silver Layer
 
 The Silver layer standardizes and cleans the data.
@@ -151,6 +179,8 @@ lakehouse/silver/silver_transactions
 lakehouse/silver/silver_loans
 lakehouse/silver/silver_claims
 ```
+
+---
 
 ### Gold Layer
 
@@ -254,10 +284,72 @@ Example final status:
 PASS: 22
 WARN: 3
 FAIL: 0
+
 Pipeline status: SUCCESS_WITH_WARNINGS
 ```
 
 Warnings are expected in this demo project because the synthetic dataset intentionally contains controlled data quality issues, such as duplicate transactions, orphan transactions and suspicious amounts.
+
+---
+
+## Testing and CI
+
+The project includes lightweight pytest-based unit tests for critical PySpark transformation logic.
+
+The tests validate:
+
+- Silver transaction deduplication
+- Orphan customer flagging
+- Suspicious amount flagging
+- Gold risk score validity
+- Risk band validity
+- DQ results creation
+
+Run tests locally:
+
+```powershell
+python -m pytest tests -q
+```
+
+The repository also includes a GitHub Actions CI workflow that runs the tests automatically on pushes and pull requests to `main`.
+
+Workflow file:
+
+```text
+.github/workflows/ci.yml
+```
+
+---
+
+## Power BI Export
+
+The project includes a Power BI export script that converts selected Gold and Monitoring Parquet outputs into CSV files.
+
+Main script:
+
+```text
+src/local_pipeline/export_powerbi_datasets.py
+```
+
+Run the export:
+
+```powershell
+python -m src.local_pipeline.export_powerbi_datasets
+```
+
+Generated local CSV outputs:
+
+```text
+exports/powerbi/customer_360.csv
+exports/powerbi/customer_risk_features.csv
+exports/powerbi/monthly_transaction_kpis.csv
+exports/powerbi/loan_payment_behavior.csv
+exports/powerbi/insurance_claims_mart.csv
+exports/powerbi/dq_results.csv
+exports/powerbi/pipeline_run_log.csv
+```
+
+The `exports/` directory is excluded from Git because it contains generated local outputs.
 
 ---
 
@@ -307,6 +399,7 @@ Starting step: Gold feature generation
 Step completed: Gold feature generation
 
 Starting step: Data quality and monitoring
+
 DQ summary:
 PASS 22
 WARN 3
@@ -326,6 +419,9 @@ This project demonstrates practical data engineering capabilities beyond isolate
 - Implementing data quality controls
 - Performing reconciliation across layers
 - Producing business-ready customer-level datasets
+- Adding automated tests for core transformation logic
+- Running CI checks through GitHub Actions
+- Preparing curated datasets for Power BI reporting
 - Structuring a project for GitHub portfolio visibility
 
 The architecture can be extended to cloud platforms such as Microsoft Fabric or Databricks by replacing local Parquet paths with managed lakehouse storage and orchestration services.
@@ -334,11 +430,12 @@ The architecture can be extended to cloud platforms such as Microsoft Fabric or 
 
 ## Potential Future Improvements
 
-- Add unit tests with `pytest`
-- Add CI/CD with GitHub Actions
 - Add Delta Lake support
+- Add incremental loading logic
+- Add partitioning by `year_month`
 - Add Power BI dashboard examples
 - Add Microsoft Fabric deployment version
 - Add Databricks notebook version
 - Add Great Expectations-style validation
-- Add incremental loading logic
+- Add parameterized environment configuration
+- Add richer logging and pipeline metrics
