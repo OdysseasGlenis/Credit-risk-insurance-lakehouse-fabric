@@ -1,5 +1,7 @@
 # Credit Risk & Insurance Lakehouse Modernization
 
+[![CI](https://github.com/OdysseasGlenis/Credit-risk-insurance-lakehouse-fabric/actions/workflows/ci.yml/badge.svg)](https://github.com/OdysseasGlenis/Credit-risk-insurance-lakehouse-fabric/actions/workflows/ci.yml)
+
 End-to-end local PySpark lakehouse project for synthetic banking and insurance data, designed to simulate a modern data engineering pipeline using Bronze, Silver and Gold layers.
 
 The project demonstrates ingestion, cleansing, deduplication, feature engineering, customer-level analytical marts, risk scoring and data quality monitoring. It is implemented locally with PySpark and Parquet, but the architecture is portable to platforms such as Microsoft Fabric or Databricks.
